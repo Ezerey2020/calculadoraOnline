@@ -1,0 +1,7 @@
+# calculadoraOnline
+calculadora online
+
+PARA VISUALIZAR PROYECTO 
+
+EJECUTAR: NPM INSTALL
+EJECUTAR: NPM START
