@@ -20,9 +20,9 @@
 .calculatorButton {
   padding: 20px;
   font-size: 30px;
-  border: solid 1px white;
-  background-color: black;
-  color: white;
+  border: solid 1px rgb(209, 103, 103);
+  background-color: rgb(51, 13, 155);
+  color: rgb(43, 161, 59);
   cursor: pointer;
 }
 
